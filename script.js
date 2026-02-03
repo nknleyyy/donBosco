@@ -1,14 +1,14 @@
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it old monk kodsthini!",
+     "leyy barrroooo class ge ",
+    "parents ge phone mathini",
+    "complaint madthini nod eega",
+    "Aye munde gandaa",
+    "Please banni students",
     "If you say no, I will be really sad...",
     "I will be very sad...",
     "I will be very very very sad...",
     "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "nang gothu neev barthira antha "
 ];
 
 let messageIndex = 0;
